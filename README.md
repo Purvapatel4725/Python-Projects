@@ -10,6 +10,9 @@
 ### cryptographicEncryption.py
 - A Python script demonstrating basic cryptographic encryption and decryption techniques, providing insights into how encryption and decryption are handled.
 
+### DES.py
+- Python script using the `pycryptodome` module to encrypt and decrypt data from files (plain.txt and cipher.txt) using DES.
+
 ## Usage
 
 - You can run each script individually to see how they work. These projects are designed to help you understand various Python programming concepts. Feel free to use and modify the code for educational purposes. However, please do not use it for commercial purposes without permission.
